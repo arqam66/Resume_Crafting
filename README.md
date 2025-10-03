@@ -25,7 +25,7 @@
 1. **Pick a layout** — choose single-column for ATS compatibility or two-column for a modern, scannable design.  
 2. **Fill the header** — name, professional email, phone, location (city), LinkedIn, GitHub/portfolio.  
 3. **Write a short summary** — 3–5 sentences tailored to the job; include key skills and measurable impact.  
-4. **List professional experience** — reverse chronological, use action verbs and quantify achievements.  
+4. **List professional experience** — reverse chronological, use action verbs, and quantify achievements.  
 5. **Add education & projects** — include technologies used and links where possible.  
 6. **Specify skills** — prioritize relevant technical skills; include a short list of soft skills.  
 7. **Use optional sections** only if they add value (certificates, awards, languages, relevant hobbies).  
@@ -50,24 +50,6 @@
 - Avoid personal info — no date of birth, marital status, or national ID.  
 - Proofread — correct spelling, punctuation, and link targets.
 
----
-
-## Contributing
-Contributions, suggestions, and corrections are welcome. To contribute:
-1. Fork the source (if hosted on a repo).  
-2. Propose edits via pull request or send suggested edits to the author.  
-3. For content changes, include clear reasoning and examples.
-
----
-
-## Known issues / TODO
-- Flow chart diagram placeholders need final diagrams (mermaid or PNG).  
-- Minor typos and formatting consistency reviewed; further copyediting may improve tone.
-
----
-
-## License
-This guide is provided for personal and educational use. To request broader reuse (commercial or otherwise), contact the author via LinkedIn: https://www.linkedin.com/in/arqamhussain
 
 ---
 
