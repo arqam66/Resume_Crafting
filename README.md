@@ -1,10 +1,3 @@
-# Crafting a Developer Resume
-
-**Version:** 1.0  
-**Author:** Arqam Hussain  
-**Contact:** https://www.linkedin.com/in/arqamhussain
-
----
 
 ## Overview
 **Crafting a Developer Resume** is a concise e-book designed to help developers — from fresh graduates to experienced professionals — create clear, ATS-friendly, and visually appealing resumes that highlight technical skills, projects, and career impact. The guide focuses on practical tips, examples, and resources that make resume writing faster and more effective.
